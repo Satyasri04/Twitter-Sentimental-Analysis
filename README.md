@@ -45,11 +45,7 @@ This project focuses on sentiment analysis utilizing the Naive Bayes algorithm. 
 - nltk
 - sklearn
 
-## Usage
 
-1. Clone the repository:
-   git clone
-       https://github.com/Blackmonarch4574/Twitter-Sentimental-Analysis.git
 
 
 
